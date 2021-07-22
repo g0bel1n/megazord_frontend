@@ -1,0 +1,3 @@
+../MegaZord_mobilenetv2.mlmodel filter=lfs diff=lfs merge=lfs -text
+megazord_frontend/MegaZord_mobilenetv2.mlmodel filter=lfs diff=lfs merge=lfs -text
+MegaZord_mobilenetv2.mlmodel filter=lfs diff=lfs merge=lfs -text
